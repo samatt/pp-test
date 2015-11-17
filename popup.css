@@ -1,0 +1,20 @@
+body{
+	width:500px;
+	height:250px;
+}
+#experimentsTable{
+	overflow: scroll; /* Scrollbar are always visible */
+	overflow: auto;  
+}
+
+#varTable{
+	overflow: scroll; /* Scrollbar are always visible */
+	overflow: auto;  
+}
+th{
+	background-color:grey;
+	
+	/*table-layout: fixed;*/
+    /*width: 500px;*/
+    /*height: auto;*/
+}
